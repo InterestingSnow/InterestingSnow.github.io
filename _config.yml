@@ -10,8 +10,8 @@ title:  花开彼岸天
 subtitle: 鱼跃此时海，花开彼岸天
 name: 花开彼岸天
 email: 1398309419@qq.com.com
-description: 本站是纯洁的微笑的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
-keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
+description: 本站是花开彼岸天的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构等相关的研究与知识分享。
+keywords: interestingsnow,花开彼岸天,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,生活故事,架构,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
 encoding: "utf-8"
 favicon: favicon.ico 
 
@@ -65,10 +65,10 @@ menus:
     label: IT
     target: _self
 
-  -
-    href: /zsxq.html
-    label: 星球
-    target: _self   
+#  -
+#    href: /zsxq.html
+#    label: 星球
+#    target: _self
 
   -
     href: /life.html
