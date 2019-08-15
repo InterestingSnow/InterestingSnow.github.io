@@ -872,9 +872,10 @@
   margin-right: 0;
 }
 .gt-container .gt-error {
-  text-align: center;
-  margin: 0.625em;
-  color: #ff3860;
+  /*text-align: center;*/
+  /*margin: 0.625em;*/
+  /*color: #ff3860;*/
+  display: none;
 }
 .gt-container .gt-initing {
   padding: 1.25em 0;
