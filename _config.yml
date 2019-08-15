@@ -16,9 +16,9 @@ encoding: "utf-8"
 favicon: favicon.ico 
 
 repository: InterestingSnow/InterestingSnow.github.io
-github_url: https://github.com/InterestingSnow
-url: http://www.InterestingSnow.com
-enforce_ssl: InterestingSnow.com
+github_url: https://github.com/interestingsnow
+url: http://www.interestingsnow.com
+enforce_ssl: interestingsnow.com
 
 ## Gem
 plugins:
