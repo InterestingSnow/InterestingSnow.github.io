@@ -115,8 +115,8 @@ navs:
 
   -
     href: /java.html
-        label: Java
-        target:  _self
+    label: Java
+    target:  _self
 
 #    href: http://www.justdojava.com
 #    label: Java
